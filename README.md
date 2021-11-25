@@ -1,2 +1,2 @@
 # JAVA
- Alguns progrmas em java simples para estudo
+ Alguns programas em java simples para estudo
