@@ -33,7 +33,8 @@ public class AplicacaoWhile_If {
             System.out.println("Média: " + String.format("%.2f", media));
         }
         System.out.println("\nPROGRAMA FINALIZADO!");
-        //sc.close();
+        
+        sc.close();
     }
 
 }
